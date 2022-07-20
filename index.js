@@ -1,2 +1,2 @@
 document.createElement('img');
-const zayed = makana;
+const zayed = makana;ll
